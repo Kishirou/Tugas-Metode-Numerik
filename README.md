@@ -3,6 +3,7 @@ Pada source code terdapat sebuah penyelesaian untuk masalah sistem persamaan lin
 - Metode Matriks Balikan\
 - Metode Dekomposisi LU Gauss\
 - Metode Dekomposisi Crout \
+
 Pada file SPL_Metode_Numerik.py terdapat source code yang dapat digunakan, sedangkan testing.py digunakan untuk mengetes saja.\
 Format input matriks ketika menjalankan source code adalah :\
 Matriks A:\
