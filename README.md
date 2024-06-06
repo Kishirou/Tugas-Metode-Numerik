@@ -1,6 +1,6 @@
 # Tugas-Metode-Numerik
-========================
 Sistem Persamaan Linear
+========================
 Pada source code terdapat sebuah penyelesaian untuk masalah sistem persamaan linear. Penyelesaian tersebut menggunakan 3 metode, yaitu :
 - Metode Matriks Balikan
 - Metode Dekomposisi LU Gauss
@@ -13,5 +13,9 @@ Matriks A:\
 1 2 3\
 1 2 3\
 Beri spasi untuk menginput elemen selanjutnya.
-========================
+
 Implementasi Interpolasi
+========================
+Pada source code terdapat sebuah penyelesaian interpolasi. Penyelesaian tersebut menggunakan 2 metode, yaitu :
+- polinom Langrange
+- polinom Newton
