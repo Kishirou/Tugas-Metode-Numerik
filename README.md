@@ -34,4 +34,4 @@ Dalam source code, terdapat Implementasi regresi untuk mencari hubungan tersebut
 Implementasi Integrasi Numerik untuk Menghitung Estimasi nilai Pi
 =================================================================
 Nilai pi dapat dihitung secara numerik dengan mencari nilai integral dari fungsi f(x) = 4 / (1 + x^2) dari 0 sampai 1.\
-Dalam source code terdapat implementasi penghitungan nilai integral fungsi tersebut secara numerik dengan metode Integrasi trapezoid
+Dalam source code terdapat implementasi penghitungan nilai integral fungsi tersebut secara numerik dengan metode Integrasi trapezoid.
