@@ -20,8 +20,8 @@ Pada source code terdapat sebuah penyelesaian interpolasi. Penyelesaian tersebut
 - polinom Langrange
 - polinom Newton
 
-Implementasi Regresi
-====================
+Aplikasi Regresi untuk Pemecahan Problem
+========================================
 Diinginkan untuk mencari hubungan faktor yang mempengaruhi nilai ujian siswa (NT):
 - Durasi waktu belajar (TB) terhadap nilai ujian (Problem 1)
 - Jumlah latihan soal (NL) terhadap nilai ujian (Problem 2)
