@@ -19,3 +19,14 @@ Implementasi Interpolasi
 Pada source code terdapat sebuah penyelesaian interpolasi. Penyelesaian tersebut menggunakan 2 metode, yaitu :
 - polinom Langrange
 - polinom Newton
+
+Implementasi Regresi
+====================
+Diinginkan untuk mencari hubungan faktor yang mempengaruhi nilai ujian siswa (NT):
+- Durasi waktu belajar (TB) terhadap nilai ujian (Problem 1)
+- Jumlah latihan soal (NL) terhadap nilai ujian (Problem 2)
+- Data TB, NL, dan NT diperoleh dari file yang telah diberikan, yaitu kolom Hours Studied,  Sample Question Papers Practiced, dan Performance Index.
+
+Dalam source code, terdapat Implementasi regresi untuk mencari hubungan tersebut dengan metode:
+- Model linear (Metode 1)
+- Model eksponensial (Metode 3)
