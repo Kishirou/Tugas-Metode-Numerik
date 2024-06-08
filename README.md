@@ -30,3 +30,8 @@ Diinginkan untuk mencari hubungan faktor yang mempengaruhi nilai ujian siswa (NT
 Dalam source code, terdapat Implementasi regresi untuk mencari hubungan tersebut dengan metode:
 - Model linear (Metode 1)
 - Model eksponensial (Metode 3)
+
+Implementasi Integrasi Numerik untuk Menghitung Estimasi nilai Pi
+=================================================================
+Nilai pi dapat dihitung secara numerik dengan mencari nilai integral dari fungsi f(x) = 4 / (1 + x^2) dari 0 sampai 1.\
+Dalam source code terdapat implementasi penghitungan nilai integral fungsi tersebut secara numerik dengan metode Integrasi trapezoid
